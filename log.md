@@ -24,3 +24,11 @@ Changed the day count to -10, to start with everyone else on the 9th.
 **Thoughts:** Aligning tables to images is trickier than I thought.
 
 **Link to work:** [Kionami](https://github.com/latinadeveloper/isistejeda.com/commit/e03836f92725500407b81e3184b8094392bea4c0)
+
+### Day -8: December 31, 2016
+
+**Today's Progress**: Made Mimis reveal one tile at a time as the Kionami code is pressed
+
+**Thoughts:** Had to remove the image from being responsive for the table to line up. 
+
+**Link to work:** [Kionami](https://github.com/latinadeveloper/isistejeda.com/commit/8cb14efca03e1ac209f99bb97c058bc4f984234d)
