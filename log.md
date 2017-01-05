@@ -32,3 +32,11 @@ Changed the day count to -10, to start with everyone else on the 9th.
 **Thoughts:** Had to remove the image from being responsive for the table to line up. 
 
 **Link to work:** [Kionami](https://github.com/latinadeveloper/isistejeda.com/commit/8cb14efca03e1ac209f99bb97c058bc4f984234d)
+
+### Day 1: January 4, 2016
+
+**Today's Progress**: Finsihed Kionami with Mimis.
+
+**Thoughts:** Will try to come back to make it pretty. Looking to see how JQuery & DOM works for next project. 
+
+**Link to work:** [Kionami](https://github.com/latinadeveloper/isistejeda.com/commit/c297c833b0322be914c4972a042d060e03811428)
