@@ -40,3 +40,19 @@ Changed the day count to -10, to start with everyone else on the 9th.
 **Thoughts:** Will try to come back to make it pretty. Looking to see how JQuery & DOM works for next project. 
 
 **Link to work:** [Kionami](https://github.com/latinadeveloper/isistejeda.com/commit/c297c833b0322be914c4972a042d060e03811428)
+
+### Day 2: January 5, 2016
+
+**Today's Progress**: Looked at tutorials and learning about DOM.
+
+**Thoughts:** Trying to understand this a bit more to complete project with LearnCo since I am just learning WebDev. 
+
+**Link to work:** pending
+
+### Day 3: January 6, 2016
+
+**Today's Progress**: Worked on the home page for Wiggles.
+
+**Thoughts:** Did some work through LearnCo, but I want to try to keep the learning separate from the projects...try. 
+
+**Link to work:** [Wiggles] (www.wigglesthengiggles.com)
