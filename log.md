@@ -56,3 +56,27 @@ Changed the day count to -10, to start with everyone else on the 9th.
 **Thoughts:** Did some work through LearnCo, but I want to try to keep the learning separate from the projects...try. 
 
 **Link to work:** [Wiggles] (www.wigglesthengiggles.com)
+
+### Day 4: January 7, 2016
+
+**Today's Progress**: Finished Rock Dodger from LearnCo.
+
+**Thoughts:** Made some of my own changes to the Rock Dogger game from LearnCo Javascript. Waiting to put it up on my site.
+
+**Link to work:**
+
+### Day 5: January 8, 2016
+
+**Today's Progress**: Free Code Camp.
+
+**Thoughts:** Worked on soem Javascript exercises, deciding if I should start calculator.
+
+**Link to work:** [FreeCodeCamp] (https://www.freecodecamp.com/isisharris)
+
+### Day 6: January 9, 2016
+
+**Today's Progress**: .
+
+**Thoughts:** 
+
+**Link to work:** 
