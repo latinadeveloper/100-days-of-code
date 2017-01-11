@@ -75,8 +75,29 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 ### Day 6: January 9, 2016
 
-**Today's Progress**: .
+**Today's Progress**: Focused on finishing Javascript Basics
 
-**Thoughts:** 
+**Thoughts:** Come back to code when I can focus on the skill at hand. The last two exercises were much easier with a fresh mind. 
 
-**Link to work:** 
+**Link to work:** [LearCo end of JS Basics] (https://github.com/latinadeveloper/js-hashes-readme-v-000)
+
+### Day 7: January 10, 2016
+
+**Today's Progress**: Had to go over Git more to get familiar with it as well as GitHub.
+
+**Thoughts:**  There is a lot more that Git can do then what I did, but I will have to cover that another time. 
+
+**Link to work:** [Refresh on git] (https://github.com/latinadeveloper/gitCheatSheet)
+
+### Day 8: January 11, 2016
+
+**Today's Progress**: Get through as much of HTML/CSS as possible. 
+
+**Thoughts:**  
+
+**Link to work:** [] ()
+
+
+
+
+
