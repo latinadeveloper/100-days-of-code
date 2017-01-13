@@ -93,11 +93,23 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Today's Progress**: Get through as much of HTML/CSS as possible. 
 
-**Thoughts:**  
+**Thoughts:**  I thought I would have been able to get through this section a bit faster, but there are a lot of details to things. 
 
-**Link to work:** [] ()
+**Link to work:** [Mapping contact form] (https://github.com/latinadeveloper/html-map-contact-form-code-along-v-000)
 
+### Day 9: January 12, 2016
 
+**Today's Progress**: Working my way throught the HTML/CSS with Flatiron
 
+**Thoughts:**  I thought I would have been able to get through this section a bit faster, but there are a lot of details to things. 
 
+**Link to work:** [Rainbow & Kitens today] (https://github.com/latinadeveloper/css-kitten-wheelbarrow-v-000)
+
+### Day 10: January 13, 2016
+
+**Today's Progress**: Finished the CSS section now onto page layout. 
+
+**Thoughts:**  Goal to get through it today.
+
+**Link to work:** [Learn Student Page] (https://github.com/latinadeveloper/learn-deploy-on-day-one-v-000)
 
