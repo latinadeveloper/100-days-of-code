@@ -113,3 +113,13 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Link to work:** [Learn Student Page] (https://github.com/latinadeveloper/learn-deploy-on-day-one-v-000)
 
+### Day 11: January 14, 2016
+
+**Today's Progress**: Going through raw html, css 
+
+**Thoughts:**  css specificity is important to understand.
+
+**Link to work:** [Working with columns] (https://github.com/latinadeveloper/Codealong-Creating-Columns-v-000)
+
+
+
