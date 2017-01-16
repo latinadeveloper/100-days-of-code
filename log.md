@@ -121,5 +121,10 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Link to work:** [Working with columns] (https://github.com/latinadeveloper/Codealong-Creating-Columns-v-000)
 
+### Day 12: January 15, 2016
 
+**Today's Progress**: Explored the clear:both with columns in css.
 
+**Thoughts:**  one of many reasons why flex-boxes were created
+
+**Link to work:** [Worked with clear Both] (https://github.com/latinadeveloper/hs-zhw-shoes-layout-v-000)
