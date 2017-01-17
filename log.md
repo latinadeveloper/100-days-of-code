@@ -128,3 +128,13 @@ Changed the day count to -10, to start with everyone else on the 9th.
 **Thoughts:**  one of many reasons why flex-boxes were created
 
 **Link to work:** [Worked with clear Both] (https://github.com/latinadeveloper/hs-zhw-shoes-layout-v-000)
+
+### Day 13: January 15, 2016
+
+**Today's Progress**: Finished the CSS part. Starting responsive layout.
+
+**Thoughts:**  Took a day longer than I expected, but getting through it. 
+
+**Link to work:** [Start of responsive] (https://github.com/latinadeveloper/adding-responsive-features-v-000)
+
+
