@@ -137,4 +137,12 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Link to work:** [Start of responsive] (https://github.com/latinadeveloper/adding-responsive-features-v-000)
 
+### Day 14: January 15, 2016
+
+**Today's Progress**: Finished the bootstrap section.
+
+**Thoughts:**  A lot easier to use bootstrap for responsive, need to install plugin for Atom. 
+
+**Link to work:** [Completed Bootstrap Section] (https://github.com/latinadeveloper/bootstrap-image-carousel-code-along-v-000)
+
 
