@@ -129,7 +129,7 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Link to work:** [Worked with clear Both] (https://github.com/latinadeveloper/hs-zhw-shoes-layout-v-000)
 
-### Day 13: January 15, 2016
+### Day 13: January 16, 2016
 
 **Today's Progress**: Finished the CSS part. Starting responsive layout.
 
@@ -137,7 +137,7 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Link to work:** [Start of responsive] (https://github.com/latinadeveloper/adding-responsive-features-v-000)
 
-### Day 14: January 15, 2016
+### Day 14: January 17, 2016
 
 **Today's Progress**: Finished the bootstrap section.
 
@@ -145,4 +145,18 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Link to work:** [Completed Bootstrap Section] (https://github.com/latinadeveloper/bootstrap-image-carousel-code-along-v-000)
 
+### Day 15: January 18, 2016
 
+**Today's Progress**: Started to explore Ruby.
+
+**Thoughts:**  See how much confusion between JS, Java and Ruby  I will have. 
+
+**Link to work:** [] ()
+
+### Day 16: January 19, 2016
+
+**Today's Progress**: Very little
+
+**Thoughts:**  Other things came up where I only had 1 hr to sit down.  
+
+**Link to work:** [n] ()
