@@ -151,12 +151,44 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Thoughts:**  See how much confusion between JS, Java and Ruby  I will have. 
 
-**Link to work:** [] ()
+**Link to work:** [Hi Ruby] (https://github.com/latinadeveloper/ruby-lecture-reading-error-messages-v-000)
 
 ### Day 16: January 19, 2016
 
-**Today's Progress**: Very little
+**Today's Progress**: Some Ruby
 
 **Thoughts:**  Other things came up where I only had 1 hr to sit down.  
 
-**Link to work:** [n] ()
+**Link to work:** [Starting Ruby] (https://github.com/latinadeveloper/ruby-variable-assignment-v-000)
+
+### Day 17: January 20, 2016
+
+**Today's Progress**: Basics but important to understand.
+
+**Thoughts:**  School requires a lot of reading.   
+
+**Link to work:** [TTT starting] (https://github.com/latinadeveloper/ttt-2-board-rb-v-000)
+
+### Day 18: January 21, 2016
+
+**Today's Progress**: Very little
+
+**Thoughts:**   Only a little bit of coding, fam day.  
+
+**Link to work:** [Displaying with the terminal] (https://github.com/latinadeveloper/ttt-3-display_board-example-v-000)
+
+### Day 19: January 22, 2016
+
+**Today's Progress**: Ruby puts exercises
+
+**Thoughts:**     Not alot of action on Twitter regarding 100days of code
+
+**Link to work:** [TTT intro] (https://github.com/latinadeveloper/intro-to-tdd-rspec-and-learn-v-000)
+
+### Day 20: January 23, 2016
+
+**Today's Progress**: Ruby seems "easier" to write.
+
+**Thoughts:**     Nice to have a little bit more of time to work. 
+
+**Link to work:** [Exploring Methods] (https://github.com/latinadeveloper/ttt-5-move-rb-v-000)
