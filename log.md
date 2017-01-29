@@ -192,3 +192,45 @@ Changed the day count to -10, to start with everyone else on the 9th.
 **Thoughts:**     Nice to have a little bit more of time to work. 
 
 **Link to work:** [Exploring Methods] (https://github.com/latinadeveloper/ttt-5-move-rb-v-000)
+### Day 21: January 24, 2016
+
+**Today's Progress**: Learning about iteration with Ruby
+
+**Thoughts:**     
+
+**Link to work:** [Iteration to loop over an array.] (https://github.com/latinadeveloper/ttt-10-current-player-v-000)
+### Day 22: January 25, 2016
+
+**Today's Progress**:More Ruby  
+
+**Thoughts:**   There is some overlap with JS but it still doesn't feel like a "natural language"
+
+**Link to work:** [Methods Ruby and arrays] (https://github.com/latinadeveloper/ttt-game-status-v-000)
+### Day 23: January 26, 2016
+
+**Today's Progress**: Command line TTT
+
+**Thoughts:**     
+
+**Link to work:** [TTT CLI] (https://github.com/latinadeveloper/tic-tac-toe-rb-v-000)
+### Day 24: January 27, 2016
+
+**Today's Progress**: Reviewed the TTT
+
+**Thoughts:**     
+
+**Link to work:** [TTT CLI] (https://github.com/latinadeveloper/tic-tac-toe-rb-v-000)
+### Day 25: January 28, 2016
+
+**Today's Progress**: Learned what Pry is.
+
+**Thoughts:**     
+
+**Link to work:** [Pry] (https://github.com/latinadeveloper/debugging-with-pry-v-000)
+### Day 26: January 29, 2016
+
+**Today's Progress**: Booleans with Ruby
+
+**Thoughts:**     It is easier now to code every day, updating the log is something I am wondering if it will be useful.
+
+**Link to work:** [Truthiness Code Challenge] ()
