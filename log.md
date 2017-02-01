@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day -11: December 29, 2016
+### Day -11: December 29, 2017
 
 **Today's Progress**: Started something to be seen once Kionami code is entered. 
 
@@ -8,7 +8,7 @@
 
 **Link to work:** [Kionami](https://github.com/latinadeveloper/isistejeda.com/commit/e2a0d37cd8145d517abe26c9f2b9a7002d2e5c40)
 
-### Day -10: December 30, 2016
+### Day -10: December 30, 2017
 
 **Today's Progress**: Mimis image uploaded to be shown when the code is entered. 
 
@@ -17,7 +17,7 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Link to work:** [Kionami](https://github.com/latinadeveloper/isistejeda.com/commit/3898073f6c6a471daa1bf9be3f0a643fcb6130dd)
 
-### Day -9: December 31, 2016
+### Day -9: December 31, 2017
 
 **Today's Progress**: Align table(tiles) to start revealing Mimis.
 
@@ -25,7 +25,7 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Link to work:** [Kionami](https://github.com/latinadeveloper/isistejeda.com/commit/e03836f92725500407b81e3184b8094392bea4c0)
 
-### Day -8: December 31, 2016
+### Day -8: December 31, 2017
 
 **Today's Progress**: Made Mimis reveal one tile at a time as the Kionami code is pressed
 
@@ -33,7 +33,7 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Link to work:** [Kionami](https://github.com/latinadeveloper/isistejeda.com/commit/8cb14efca03e1ac209f99bb97c058bc4f984234d)
 
-### Day 1: January 4, 2016
+### Day 1: January 4, 2017
 
 **Today's Progress**: Finsihed Kionami with Mimis.
 
@@ -41,7 +41,7 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Link to work:** [Kionami](https://github.com/latinadeveloper/isistejeda.com/commit/c297c833b0322be914c4972a042d060e03811428)
 
-### Day 2: January 5, 2016
+### Day 2: January 5, 2017
 
 **Today's Progress**: Looked at tutorials and learning about DOM.
 
@@ -49,7 +49,7 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Link to work:** pending
 
-### Day 3: January 6, 2016
+### Day 3: January 6, 2017
 
 **Today's Progress**: Worked on the home page for Wiggles.
 
@@ -57,7 +57,7 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Link to work:** [Wiggles] (www.wigglesthengiggles.com)
 
-### Day 4: January 7, 2016
+### Day 4: January 7, 2017
 
 **Today's Progress**: Finished Rock Dodger from LearnCo.
 
@@ -65,7 +65,7 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Link to work:**
 
-### Day 5: January 8, 2016
+### Day 5: January 8, 2017
 
 **Today's Progress**: Free Code Camp.
 
@@ -73,7 +73,7 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Link to work:** [FreeCodeCamp] (https://www.freecodecamp.com/isisharris)
 
-### Day 6: January 9, 2016
+### Day 6: January 9, 2017
 
 **Today's Progress**: Focused on finishing Javascript Basics
 
@@ -81,7 +81,7 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Link to work:** [LearCo end of JS Basics] (https://github.com/latinadeveloper/js-hashes-readme-v-000)
 
-### Day 7: January 10, 2016
+### Day 7: January 10, 2017
 
 **Today's Progress**: Had to go over Git more to get familiar with it as well as GitHub.
 
@@ -89,7 +89,7 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Link to work:** [Refresh on git] (https://github.com/latinadeveloper/gitCheatSheet)
 
-### Day 8: January 11, 2016
+### Day 8: January 11, 2017
 
 **Today's Progress**: Get through as much of HTML/CSS as possible. 
 
@@ -97,7 +97,7 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Link to work:** [Mapping contact form] (https://github.com/latinadeveloper/html-map-contact-form-code-along-v-000)
 
-### Day 9: January 12, 2016
+### Day 9: January 12, 2017
 
 **Today's Progress**: Working my way throught the HTML/CSS with Flatiron
 
@@ -105,7 +105,7 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Link to work:** [Rainbow & Kitens today] (https://github.com/latinadeveloper/css-kitten-wheelbarrow-v-000)
 
-### Day 10: January 13, 2016
+### Day 10: January 13, 2017
 
 **Today's Progress**: Finished the CSS section now onto page layout. 
 
@@ -113,7 +113,7 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Link to work:** [Learn Student Page] (https://github.com/latinadeveloper/learn-deploy-on-day-one-v-000)
 
-### Day 11: January 14, 2016
+### Day 11: January 14, 2017
 
 **Today's Progress**: Going through raw html, css 
 
@@ -121,7 +121,7 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Link to work:** [Working with columns] (https://github.com/latinadeveloper/Codealong-Creating-Columns-v-000)
 
-### Day 12: January 15, 2016
+### Day 12: January 15, 2017
 
 **Today's Progress**: Explored the clear:both with columns in css.
 
@@ -129,7 +129,7 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Link to work:** [Worked with clear Both] (https://github.com/latinadeveloper/hs-zhw-shoes-layout-v-000)
 
-### Day 13: January 16, 2016
+### Day 13: January 16, 2017
 
 **Today's Progress**: Finished the CSS part. Starting responsive layout.
 
@@ -137,7 +137,7 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Link to work:** [Start of responsive] (https://github.com/latinadeveloper/adding-responsive-features-v-000)
 
-### Day 14: January 17, 2016
+### Day 14: January 17, 2017
 
 **Today's Progress**: Finished the bootstrap section.
 
@@ -145,7 +145,7 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Link to work:** [Completed Bootstrap Section] (https://github.com/latinadeveloper/bootstrap-image-carousel-code-along-v-000)
 
-### Day 15: January 18, 2016
+### Day 15: January 18, 2017
 
 **Today's Progress**: Started to explore Ruby.
 
@@ -161,7 +161,7 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Link to work:** [Starting Ruby] (https://github.com/latinadeveloper/ruby-variable-assignment-v-000)
 
-### Day 17: January 20, 2016
+### Day 17: January 20, 2017
 
 **Today's Progress**: Basics but important to understand.
 
@@ -169,7 +169,7 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Link to work:** [TTT starting] (https://github.com/latinadeveloper/ttt-2-board-rb-v-000)
 
-### Day 18: January 21, 2016
+### Day 18: January 21, 2017
 
 **Today's Progress**: Very little
 
@@ -177,7 +177,7 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Link to work:** [Displaying with the terminal] (https://github.com/latinadeveloper/ttt-3-display_board-example-v-000)
 
-### Day 19: January 22, 2016
+### Day 19: January 22, 2017
 
 **Today's Progress**: Ruby puts exercises
 
@@ -185,52 +185,87 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Link to work:** [TTT intro] (https://github.com/latinadeveloper/intro-to-tdd-rspec-and-learn-v-000)
 
-### Day 20: January 23, 2016
+### Day 20: January 23, 2017
 
 **Today's Progress**: Ruby seems "easier" to write.
 
 **Thoughts:**     Nice to have a little bit more of time to work. 
 
 **Link to work:** [Exploring Methods] (https://github.com/latinadeveloper/ttt-5-move-rb-v-000)
-### Day 21: January 24, 2016
+### Day 21: January 24, 2017
 
 **Today's Progress**: Learning about iteration with Ruby
 
 **Thoughts:**     
 
 **Link to work:** [Iteration to loop over an array.] (https://github.com/latinadeveloper/ttt-10-current-player-v-000)
-### Day 22: January 25, 2016
+### Day 22: January 25, 2017
 
 **Today's Progress**:More Ruby  
 
 **Thoughts:**   There is some overlap with JS but it still doesn't feel like a "natural language"
 
 **Link to work:** [Methods Ruby and arrays] (https://github.com/latinadeveloper/ttt-game-status-v-000)
-### Day 23: January 26, 2016
+### Day 23: January 26, 2017
 
 **Today's Progress**: Command line TTT
 
 **Thoughts:**     
 
 **Link to work:** [TTT CLI] (https://github.com/latinadeveloper/tic-tac-toe-rb-v-000)
-### Day 24: January 27, 2016
+### Day 24: January 27, 2017
 
 **Today's Progress**: Reviewed the TTT
 
 **Thoughts:**     
 
 **Link to work:** [TTT CLI] (https://github.com/latinadeveloper/tic-tac-toe-rb-v-000)
-### Day 25: January 28, 2016
+### Day 25: January 28, 2017
 
 **Today's Progress**: Learned what Pry is.
 
 **Thoughts:**     
 
 **Link to work:** [Pry] (https://github.com/latinadeveloper/debugging-with-pry-v-000)
-### Day 26: January 29, 2016
+### Day 26: January 29, 2017
 
 **Today's Progress**: Booleans with Ruby
 
 **Thoughts:**     It is easier now to code every day, updating the log is something I am wondering if it will be useful.
 
-**Link to work:** [Truthiness Code Challenge] ()
+**Link to work:** [Truthiness Code Challenge] (https://github.com/latinadeveloper/method-scope-lab-v-000)
+### Day 27: January 30, 2017
+
+**Today's Progress**: Continuing to learn about manipulating data in arrays. 
+
+**Thoughts:**    Creating arrays, adding data to arrays, removing data from arrays and retrieving data from arrays
+
+**Link to work:** [Fun with arrays] (https://github.com/latinadeveloper/array-CRUD-lab-v-000)
+### Day 28: January 31, 2017
+
+**Today's Progress**: Procedural Ruby Continuation
+
+**Thoughts:**    
+
+**Link to work:** [Comma List Formatter] (https://github.com/latinadeveloper/oxford-comma-v-000)
+### Day 29: Feb 1, 2017
+
+**Today's Progress**:
+
+**Thoughts:**    
+
+**Link to work:** [] ()
+### Day 27: January 30, 2016
+
+**Today's Progress**:
+
+**Thoughts:**    
+
+**Link to work:** [] ()
+### Day 27: January 30, 2016
+
+**Today's Progress**:
+
+**Thoughts:**    
+
+**Link to work:** [] ()
