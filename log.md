@@ -250,22 +250,16 @@ Changed the day count to -10, to start with everyone else on the 9th.
 **Link to work:** [Comma List Formatter] (https://github.com/latinadeveloper/oxford-comma-v-000)
 ### Day 29: Feb 1, 2017
 
-**Today's Progress**:
+**Today's Progress**:  Learning about yield in Ruby
 
 **Thoughts:**    
 
-**Link to work:** [] ()
-### Day 27: January 30, 2016
+**Link to work:** [Yield] (https://github.com/latinadeveloper/yield-and-blocks-v-000)
+### Day 30: Deb 2, 2017
 
-**Today's Progress**:
-
-**Thoughts:**    
-
-**Link to work:** [] ()
-### Day 27: January 30, 2016
-
-**Today's Progress**:
+**Today's Progress**:Seems easier than C++ 
 
 **Thoughts:**    
 
-**Link to work:** [] ()
+**Link to work:** [Sorting Arrays. spaceship operator] ()
+
