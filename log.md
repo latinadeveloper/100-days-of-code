@@ -255,11 +255,68 @@ Changed the day count to -10, to start with everyone else on the 9th.
 **Thoughts:**    
 
 **Link to work:** [Yield] (https://github.com/latinadeveloper/yield-and-blocks-v-000)
-### Day 30: Deb 2, 2017
+### Day 30: Feb 2, 2017
 
 **Today's Progress**:Seems easier than C++ 
 
 **Thoughts:**    
 
-**Link to work:** [Sorting Arrays. spaceship operator] ()
+**Link to work:** [Starting to learn what hash is] (https://github.com/latinadeveloper/my-first-hash-v-000)
+
+### Day 31: Feb 7 , 2017
+
+**Today's Progress**:  Being away from coding for a couple of days slows down the groove, but it was nice to sit down for a while. 
+
+**Thoughts:**    Sick baby which took priority over work for a couple of days. A sick infant can go from bad to worse in just a couple of hours. Need to balance out our lives. 
+
+**Link to work:** [Access and modify data stored in a hash] (https://github.com/latinadeveloper/ruby-intro-to-hashes-lab-v-000)
+### Day 32: Feb 8, 2017
+
+**Today's Progress**: Iterating Over Hashes
+
+**Thoughts:**    
+
+**Link to work:** [Iterating Over Hashes] (https://github.com/latinadeveloper/apples-and-holidays-v-000)
+### Day 33: Feb 9, 2017
+
+**Today's Progress**: Finished what I started to work on yesterday.
+
+**Thoughts:**    
+
+**Link to work:** [Iterating Over Hashes] (https://github.com/latinadeveloper/apples-and-holidays-v-000)
+### Day 34: Feb 14 , 2017
+
+**Today's Progress**: It took less time this time around to get back into coding. Almost at Ruby OOP!
+
+**Thoughts:**    Winter and cold season are not friendly to babies. 
+
+**Link to work:** [Instance Methods Ruby] (https://github.com/latinadeveloper/instance-methods-lab-ruby-v-000)
+### Day 35: Blank , 2017
+
+**Today's Progress**: 
+
+**Thoughts:**    
+
+**Link to work:** [] ()
+### Day :  , 2017
+
+**Today's Progress**: 
+
+**Thoughts:**    
+
+**Link to work:** [] ()
+### Day :  , 2017
+
+**Today's Progress**: 
+
+**Thoughts:**    
+
+**Link to work:** [] ()
+### Day : Blank , 2017
+
+**Today's Progress**: 
+
+**Thoughts:**    
+
+**Link to work:** [] ()
 
