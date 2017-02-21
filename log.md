@@ -291,11 +291,11 @@ Changed the day count to -10, to start with everyone else on the 9th.
 **Thoughts:**    Winter and cold season are not friendly to babies. 
 
 **Link to work:** [Instance Methods Ruby] (https://github.com/latinadeveloper/instance-methods-lab-ruby-v-000)
-### Day 35: Blank , 2017
+### Day 35: Feb 21 , 2017
 
-**Today's Progress**: 
+**Today's Progress**: Reading on object intialization in OO Ruby.
 
-**Thoughts:**    
+**Thoughts:**    Grad school has been taking up my "free" time since its close to the end of the semester. Hope it will be better after the final.
 
 **Link to work:** [] ()
 ### Day :  , 2017
