@@ -297,26 +297,13 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 **Thoughts:**    Grad school has been taking up my "free" time since its close to the end of the semester. Hope it will be better after the final.
 
-**Link to work:** [] ()
-### Day :  , 2017
 
-**Today's Progress**: 
 
-**Thoughts:**    
+### Day 1: Feb 28 , 2017  100 Days Of Code Log
+**Why again**: After an inconsistent streak of days of being unable to code on a daily basis due to life events that take priority. Part of the rules are to code and log and tweet everyday. This was not met so due to my own standards of wanting to complete the challenge I will be back at day 1. 
+**Today's Progress**: Start log again. Working on macros. 
 
-**Link to work:** [] ()
-### Day :  , 2017
-
-**Today's Progress**: 
-
-**Thoughts:**    
-
-**Link to work:** [] ()
-### Day : Blank , 2017
-
-**Today's Progress**: 
-
-**Thoughts:**    
+**Thoughts:**    It feels better to start at day 1 than to know I was skipping days. 
 
 **Link to work:** [] ()
 
