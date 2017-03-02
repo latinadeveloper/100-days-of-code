@@ -299,11 +299,16 @@ Changed the day count to -10, to start with everyone else on the 9th.
 
 
 
-### Day 1: Feb 28 , 2017  100 Days Of Code Log
+### Day 1: March 1 , 2017  100 Days Of Code Log
 **Why again**: After an inconsistent streak of days of being unable to code on a daily basis due to life events that take priority. Part of the rules are to code and log and tweet everyday. This was not met so due to my own standards of wanting to complete the challenge I will be back at day 1. 
 **Today's Progress**: Start log again. Working on macros. 
 
 **Thoughts:**    It feels better to start at day 1 than to know I was skipping days. 
 
-**Link to work:** [] ()
+**Link to work:** [macros to create setter and getter methods] (https://github.com/latinadeveloper/oo-meowing-cat-v-000)
+### Day 2: March 2 , 2017
 
+**Today's Progress**: Learning about Domain Model.
+
+**Thoughts:**    
+**Link to work:** [] ()
